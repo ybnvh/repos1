@@ -1,0 +1,15 @@
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\obj\Debug\net6.0\Baitap3.csproj.AssemblyReference.cache
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\obj\Debug\net6.0\Baitap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\obj\Debug\net6.0\Baitap3.AssemblyInfoInputs.cache
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\obj\Debug\net6.0\Baitap3.AssemblyInfo.cs
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\obj\Debug\net6.0\Baitap3.csproj.CoreCompileInputs.cache
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\bin\Debug\net6.0\Baitap3.exe
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\bin\Debug\net6.0\Baitap3.deps.json
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\bin\Debug\net6.0\Baitap3.runtimeconfig.json
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\bin\Debug\net6.0\Baitap3.dll
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\bin\Debug\net6.0\Baitap3.pdb
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\obj\Debug\net6.0\Baitap3.dll
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\obj\Debug\net6.0\refint\Baitap3.dll
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\obj\Debug\net6.0\Baitap3.pdb
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\obj\Debug\net6.0\Baitap3.genruntimeconfig.cache
+C:\Users\PC-ACER\Documents\Visual Studio 2022\Baitap3\Baitap3\obj\Debug\net6.0\ref\Baitap3.dll
